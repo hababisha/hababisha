@@ -1,4 +1,4 @@
-<h1 align="center">I'm Haileamlak Derbie</h1>
+<h1 align="center">Haileamlak Derbie</h1>
 <h3 align="center">Stop acting so small. You are the universe in ecstatic motion.</h3>
 
 <p align="left">
